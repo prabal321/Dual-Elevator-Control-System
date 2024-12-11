@@ -1,12 +1,5 @@
 # Elevator Control System Design for Two Elevators  
-**Course**: CS203  
-**Group Members**:  
-- Rajat Bhasin (2023csb1151)  
-- Pradeep Singh (2023csb1146)  
-- Rohit Verma (2023csb1155)  
-- Prabal Sharma (2023csb1145)  
-- Rahul Goyal (2023csb1150)  
-- Aksh Sihag (2023csb1097)  
+
 
 ---
 
