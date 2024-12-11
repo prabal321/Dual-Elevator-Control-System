@@ -83,13 +83,5 @@ This project demonstrates a **robust elevator control system** that efficiently 
 
 ---
 
-## Repository Structure  
-```plaintext
-.
-├── src/
-│   ├── elevator_control.v      # Main Verilog module
-│   ├── testbench.v             # Testbench for simulation
-├── docs/
-│   ├── report.pdf              # Detailed project report
-├── README.md                   # Project README
+
 
